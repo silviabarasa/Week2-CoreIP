@@ -29,4 +29,21 @@ The main dataset contains demographic information and what financial services ar
 
 # Dataset Files:
 - Variable Definitions: http://bit.ly/VariableDefinitions (Links to an external site.) 
-- Dataset: http://bit.ly/FinancialDataset (Links to an external site.)
+- Dataset: http://bit.ly/FinancialDataset (Links to an external site
+
+## Setup/Installation Requirements
+* git clone https://github.com/silviabarasa/Week2-CoreIP.git
+* 
+## Technologies Used
+* pandas
+* numpy
+* Colab Notebook
+ 
+## Support and contact details
+{0718963044}
+{silviabarasa16@gmail}
+
+### License
+*{MIT License}*
+Copyright (c) {2021} 
+  
