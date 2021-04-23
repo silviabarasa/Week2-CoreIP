@@ -29,5 +29,6 @@ The main dataset contains demographic information and what financial services ar
 - Finscope Tanzania 2017. [http://www.fsdt.or.tz/finscope/] (Links to an external site.) 
 - Finscope Uganda 2018. [http://fsduganda.or.ug/finscope-2018-survey-report/] (Links to an external site.)
 
-#Dataset Files:
-Variable Definitions: http://bit.ly/VariableDefinitions (Links to an external site.) Dataset: http://bit.ly/FinancialDataset (Links to an external site.)
+# Dataset Files:
+- Variable Definitions: http://bit.ly/VariableDefinitions (Links to an external site.) 
+- Dataset: http://bit.ly/FinancialDataset (Links to an external site.)
